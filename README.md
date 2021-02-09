@@ -1,1 +1,1 @@
-# CSCE-313
+This course is to provide a general understanding of what system software is involved for an application program to run, both on a single node and over a network, and how this system software is to be used. CSCE 313 - Introduction to Computer Systems. An Aggie does not lie, cheat or steal or tolerate those who do.
