@@ -1,0 +1,1 @@
+The purpose of this programming assignment is to further improve the performance of PA 5. This is done by adding an IPC class called “IPCRequestChannel” to provide communication across the network over TCP/IP. So, this programming assignment will be able to handle incoming requests over network request channels instead of FIFO.
