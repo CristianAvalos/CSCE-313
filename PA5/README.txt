@@ -1,0 +1,1 @@
+The purpose of this programming assignments is to further improve the performance of the client from PA 4. This is done by reducing the thread management overhead for a large number of worker threads. We do this by replacing the collection of workers threads with a single thread.
